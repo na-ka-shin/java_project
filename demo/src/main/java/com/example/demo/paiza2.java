@@ -22,8 +22,6 @@ public class paiza2 {
             } else {
                 System.out.println("No");
             }
-        } else {
-            System.out.println("無効なインデックス");
         }
 	}
 }
